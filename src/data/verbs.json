@@ -1,0 +1,1696 @@
+[
+  {
+    "id": 1,
+    "escritaPrincipal": "書く",
+    "hiragana": "かく",
+    "romaji": "kaku",
+    "significados": [
+      "escrever"
+    ],
+    "grupo": "godan",
+    "jlpt": "N5",
+    "conjugacoes": {
+      "masu": {
+        "escritaPrincipal": "書きます",
+        "hiragana": "かきます",
+        "romaji": "kakimasu",
+        "significado": "escrevo / escreverei"
+      },
+      "te": {
+        "escritaPrincipal": "書いて",
+        "hiragana": "かいて",
+        "romaji": "kaite",
+        "significado": "escreva / escrevendo"
+      },
+      "ta": {
+        "escritaPrincipal": "書いた",
+        "hiragana": "かいた",
+        "romaji": "kaita",
+        "significado": "escrevi / escreveu"
+      },
+      "nai": {
+        "escritaPrincipal": "書かない",
+        "hiragana": "かかない",
+        "romaji": "kakanai",
+        "significado": "não escrevo / não escrever"
+      },
+      "mashou": {
+        "escritaPrincipal": "書きましょう",
+        "hiragana": "かきましょう",
+        "romaji": "kakimashou",
+        "significado": "vamos escrever"
+      }
+    },
+    "exemplos": [
+      {
+        "jp": "毎日、日本語を書きます。",
+        "hiragana": "まいにち、にほんごをかきます。",
+        "pt": "Escrevo japonês todos os dias."
+      }
+    ],
+    "estatisticas": {
+      "treinado": 1,
+      "acertos": 5,
+      "erros": 0,
+      "ultimaData": "2026-10-06T16:49:13.172Z"
+    }
+  },
+  {
+    "id": 2,
+    "escritaPrincipal": "食べる",
+    "hiragana": "たべる",
+    "romaji": "taberu",
+    "significados": [
+      "comer"
+    ],
+    "grupo": "ichidan",
+    "jlpt": "N5",
+    "conjugacoes": {
+      "masu": {
+        "escritaPrincipal": "食べます",
+        "hiragana": "たべます",
+        "romaji": "tabemasu",
+        "significado": "como / vou comer"
+      },
+      "te": {
+        "escritaPrincipal": "食べて",
+        "hiragana": "たべて",
+        "romaji": "tabete",
+        "significado": "coma / comendo"
+      },
+      "ta": {
+        "escritaPrincipal": "食べた",
+        "hiragana": "たべた",
+        "romaji": "tabeta",
+        "significado": "comi / comeu"
+      },
+      "nai": {
+        "escritaPrincipal": "食べない",
+        "hiragana": "たべない",
+        "romaji": "tabenai",
+        "significado": "não como / não vou comer"
+      },
+      "mashou": {
+        "escritaPrincipal": "食べましょう",
+        "hiragana": "たべましょう",
+        "romaji": "tabemashou",
+        "significado": "vamos comer"
+      }
+    },
+    "exemplos": [
+      {
+        "jp": "私は毎日りんごを食べます。",
+        "hiragana": "わたしはまいにちりんごをたべます。",
+        "pt": "Eu como maçãs todos os dias."
+      }
+    ],
+    "estatisticas": {
+      "treinado": 0,
+      "acertos": 0,
+      "erros": 0,
+      "ultimaData": null
+    }
+  },
+  {
+    "id": 3,
+    "escritaPrincipal": "行く",
+    "hiragana": "いく",
+    "romaji": "iku",
+    "significados": [
+      "ir"
+    ],
+    "grupo": "godan",
+    "jlpt": "N5",
+    "conjugacoes": {
+      "masu": {
+        "escritaPrincipal": "行きます",
+        "hiragana": "いきます",
+        "romaji": "ikimasu",
+        "significado": "vou / irei"
+      },
+      "te": {
+        "escritaPrincipal": "行って",
+        "hiragana": "いって",
+        "romaji": "itte",
+        "significado": "vá / indo"
+      },
+      "ta": {
+        "escritaPrincipal": "行った",
+        "hiragana": "いった",
+        "romaji": "itta",
+        "significado": "fui / foi"
+      },
+      "nai": {
+        "escritaPrincipal": "行かない",
+        "hiragana": "いかない",
+        "romaji": "ikanai",
+        "significado": "não vou / não irei"
+      },
+      "mashou": {
+        "escritaPrincipal": "行きましょう",
+        "hiragana": "いきましょう",
+        "romaji": "ikimashou",
+        "significado": "vamos"
+      }
+    },
+    "exemplos": [
+      {
+        "jp": "学校へ行きます。",
+        "hiragana": "がっこうへいきます。",
+        "pt": "Vou para a escola."
+      }
+    ],
+    "estatisticas": {
+      "treinado": 0,
+      "acertos": 0,
+      "erros": 0,
+      "ultimaData": null
+    }
+  },
+  {
+    "id": 4,
+    "escritaPrincipal": "見る",
+    "hiragana": "みる",
+    "romaji": "miru",
+    "significados": [
+      "ver",
+      "assistir"
+    ],
+    "grupo": "ichidan",
+    "jlpt": "N5",
+    "conjugacoes": {
+      "masu": {
+        "escritaPrincipal": "見ます",
+        "hiragana": "みます",
+        "romaji": "mimasu",
+        "significado": "vejo / vou ver"
+      },
+      "te": {
+        "escritaPrincipal": "見て",
+        "hiragana": "みて",
+        "romaji": "mite",
+        "significado": "veja / vendo"
+      },
+      "ta": {
+        "escritaPrincipal": "見た",
+        "hiragana": "みた",
+        "romaji": "mita",
+        "significado": "vi / viu"
+      },
+      "nai": {
+        "escritaPrincipal": "見ない",
+        "hiragana": "みない",
+        "romaji": "minai",
+        "significado": "não vejo / não vou ver"
+      },
+      "mashou": {
+        "escritaPrincipal": "見ましょう",
+        "hiragana": "みましょう",
+        "romaji": "mimashou",
+        "significado": "vamos ver"
+      }
+    },
+    "exemplos": [
+      {
+        "jp": "映画を見ます。",
+        "hiragana": "えいがをみます。",
+        "pt": "Assisto a um filme."
+      }
+    ],
+    "estatisticas": {
+      "treinado": 0,
+      "acertos": 0,
+      "erros": 0,
+      "ultimaData": null
+    }
+  },
+  {
+    "id": 5,
+    "escritaPrincipal": "話す",
+    "hiragana": "はなす",
+    "romaji": "hanasu",
+    "significados": [
+      "falar",
+      "conversar"
+    ],
+    "grupo": "godan",
+    "jlpt": "N5",
+    "conjugacoes": {
+      "masu": {
+        "escritaPrincipal": "話します",
+        "hiragana": "はなします",
+        "romaji": "hanashimasu",
+        "significado": "falo / vou falar"
+      },
+      "te": {
+        "escritaPrincipal": "話して",
+        "hiragana": "はなして",
+        "romaji": "hanashite",
+        "significado": "fale / falando"
+      },
+      "ta": {
+        "escritaPrincipal": "話した",
+        "hiragana": "はなした",
+        "romaji": "hanashita",
+        "significado": "falei / falou"
+      },
+      "nai": {
+        "escritaPrincipal": "話さない",
+        "hiragana": "はなさない",
+        "romaji": "hanasanai",
+        "significado": "não falo / não vou falar"
+      },
+      "mashou": {
+        "escritaPrincipal": "話しましょう",
+        "hiragana": "はなしましょう",
+        "romaji": "hanashimashou",
+        "significado": "vamos falar"
+      }
+    },
+    "exemplos": [
+      {
+        "jp": "日本語を話します。",
+        "hiragana": "にほんごをはなします。",
+        "pt": "Falo japonês."
+      }
+    ],
+    "estatisticas": {
+      "treinado": 0,
+      "acertos": 0,
+      "erros": 0,
+      "ultimaData": null
+    }
+  },
+  {
+    "id": 6,
+    "escritaPrincipal": "読む",
+    "hiragana": "よむ",
+    "romaji": "yomu",
+    "significados": [
+      "ler"
+    ],
+    "grupo": "godan",
+    "jlpt": "N5",
+    "conjugacoes": {
+      "masu": {
+        "escritaPrincipal": "読みます",
+        "hiragana": "よみます",
+        "romaji": "yomimasu",
+        "significado": "leio / vou ler"
+      },
+      "te": {
+        "escritaPrincipal": "読んで",
+        "hiragana": "よんで",
+        "romaji": "yonde",
+        "significado": "leia / lendo"
+      },
+      "ta": {
+        "escritaPrincipal": "読んだ",
+        "hiragana": "よんだ",
+        "romaji": "yonda",
+        "significado": "li / leu"
+      },
+      "nai": {
+        "escritaPrincipal": "読まない",
+        "hiragana": "よまない",
+        "romaji": "yomanai",
+        "significado": "não leio / não vou ler"
+      },
+      "mashou": {
+        "escritaPrincipal": "読みましょう",
+        "hiragana": "よみましょう",
+        "romaji": "yomimashou",
+        "significado": "vamos ler"
+      }
+    },
+    "exemplos": [
+      {
+        "jp": "本を読みます。",
+        "hiragana": "ほんをよみます。",
+        "pt": "Leio um livro."
+      }
+    ],
+    "estatisticas": {
+      "treinado": 0,
+      "acertos": 0,
+      "erros": 0,
+      "ultimaData": null
+    }
+  },
+  {
+    "id": 7,
+    "escritaPrincipal": "飲む",
+    "hiragana": "のむ",
+    "romaji": "nomu",
+    "significados": [
+      "beber"
+    ],
+    "grupo": "godan",
+    "jlpt": "N5",
+    "conjugacoes": {
+      "masu": {
+        "escritaPrincipal": "飲みます",
+        "hiragana": "のみます",
+        "romaji": "nomimasu",
+        "significado": "bebo / vou beber"
+      },
+      "te": {
+        "escritaPrincipal": "飲んで",
+        "hiragana": "のんで",
+        "romaji": "nonde",
+        "significado": "beba / bebendo"
+      },
+      "ta": {
+        "escritaPrincipal": "飲んだ",
+        "hiragana": "のんだ",
+        "romaji": "nonda",
+        "significado": "bebi / bebeu"
+      },
+      "nai": {
+        "escritaPrincipal": "飲まない",
+        "hiragana": "のまない",
+        "romaji": "nomanai",
+        "significado": "não bebo / não vou beber"
+      },
+      "mashou": {
+        "escritaPrincipal": "飲みましょう",
+        "hiragana": "のみましょう",
+        "romaji": "nomimashou",
+        "significado": "vamos beber"
+      }
+    },
+    "exemplos": [
+      {
+        "jp": "水を飲みます。",
+        "hiragana": "みずをのみます。",
+        "pt": "Bebo água."
+      }
+    ],
+    "estatisticas": {
+      "treinado": 0,
+      "acertos": 0,
+      "erros": 0,
+      "ultimaData": null
+    }
+  },
+  {
+    "id": 8,
+    "escritaPrincipal": "する",
+    "hiragana": "する",
+    "romaji": "suru",
+    "significados": [
+      "fazer"
+    ],
+    "grupo": "irregular",
+    "jlpt": "N5",
+    "conjugacoes": {
+      "masu": {
+        "escritaPrincipal": "します",
+        "hiragana": "します",
+        "romaji": "shimasu",
+        "significado": "faço / vou fazer"
+      },
+      "te": {
+        "escritaPrincipal": "して",
+        "hiragana": "して",
+        "romaji": "shite",
+        "significado": "faça / fazendo"
+      },
+      "ta": {
+        "escritaPrincipal": "した",
+        "hiragana": "した",
+        "romaji": "shita",
+        "significado": "fiz / fez"
+      },
+      "nai": {
+        "escritaPrincipal": "しない",
+        "hiragana": "しない",
+        "romaji": "shinai",
+        "significado": "não faço / não vou fazer"
+      },
+      "mashou": {
+        "escritaPrincipal": "しましょう",
+        "hiragana": "しましょう",
+        "romaji": "shimashou",
+        "significado": "vamos fazer"
+      }
+    },
+    "exemplos": [
+      {
+        "jp": "宿題をします。",
+        "hiragana": "しゅくだいをします。",
+        "pt": "Faço a lição de casa."
+      }
+    ],
+    "estatisticas": {
+      "treinado": 0,
+      "acertos": 0,
+      "erros": 0,
+      "ultimaData": null
+    }
+  },
+  {
+    "id": 9,
+    "escritaPrincipal": "来る",
+    "hiragana": "くる",
+    "romaji": "kuru",
+    "significados": [
+      "vir"
+    ],
+    "grupo": "irregular",
+    "jlpt": "N5",
+    "conjugacoes": {
+      "masu": {
+        "escritaPrincipal": "来ます",
+        "hiragana": "きます",
+        "romaji": "kimasu",
+        "significado": "venho / virei"
+      },
+      "te": {
+        "escritaPrincipal": "来て",
+        "hiragana": "きて",
+        "romaji": "kite",
+        "significado": "venha / vindo"
+      },
+      "ta": {
+        "escritaPrincipal": "来た",
+        "hiragana": "きた",
+        "romaji": "kita",
+        "significado": "vim / veio"
+      },
+      "nai": {
+        "escritaPrincipal": "来ない",
+        "hiragana": "こない",
+        "romaji": "konai",
+        "significado": "não venho / não virei"
+      },
+      "mashou": {
+        "escritaPrincipal": "来ましょう",
+        "hiragana": "きましょう",
+        "romaji": "kimashou",
+        "significado": "vamos vir"
+      }
+    },
+    "exemplos": [
+      {
+        "jp": "友達が来ます。",
+        "hiragana": "ともだちがきます。",
+        "pt": "Meu amigo vem."
+      }
+    ],
+    "estatisticas": {
+      "treinado": 0,
+      "acertos": 0,
+      "erros": 0,
+      "ultimaData": null
+    }
+  },
+  {
+    "id": 10,
+    "escritaPrincipal": "買う",
+    "hiragana": "かう",
+    "romaji": "kau",
+    "significados": [
+      "comprar"
+    ],
+    "grupo": "godan",
+    "jlpt": "N5",
+    "conjugacoes": {
+      "masu": {
+        "escritaPrincipal": "買います",
+        "hiragana": "かいます",
+        "romaji": "kaimasu",
+        "significado": "compro / vou comprar"
+      },
+      "te": {
+        "escritaPrincipal": "買って",
+        "hiragana": "かって",
+        "romaji": "katte",
+        "significado": "compre / comprando"
+      },
+      "ta": {
+        "escritaPrincipal": "買った",
+        "hiragana": "かった",
+        "romaji": "katta",
+        "significado": "comprei / comprou"
+      },
+      "nai": {
+        "escritaPrincipal": "買わない",
+        "hiragana": "かわない",
+        "romaji": "kawanai",
+        "significado": "não compro / não vou comprar"
+      },
+      "mashou": {
+        "escritaPrincipal": "買いましょう",
+        "hiragana": "かいましょう",
+        "romaji": "kaimashou",
+        "significado": "vamos comprar"
+      }
+    },
+    "exemplos": [
+      {
+        "jp": "スーパーで野菜を買います。",
+        "hiragana": "スーパーでやさいをかいます。",
+        "pt": "Compro verduras no supermercado."
+      }
+    ],
+    "estatisticas": {
+      "treinado": 0,
+      "acertos": 0,
+      "erros": 0,
+      "ultimaData": null
+    }
+  },
+  {
+    "id": 11,
+    "escritaPrincipal": "聞く",
+    "hiragana": "きく",
+    "romaji": "kiku",
+    "significados": [
+      "ouvir",
+      "escutar",
+      "perguntar"
+    ],
+    "grupo": "godan",
+    "jlpt": "N5",
+    "conjugacoes": {
+      "masu": {
+        "escritaPrincipal": "聞きます",
+        "hiragana": "ききます",
+        "romaji": "kikimasu",
+        "significado": "ouço / pergunto"
+      },
+      "te": {
+        "escritaPrincipal": "聞いて",
+        "hiragana": "きいて",
+        "romaji": "kiite",
+        "significado": "ouça / pergunte"
+      },
+      "ta": {
+        "escritaPrincipal": "聞いた",
+        "hiragana": "きいた",
+        "romaji": "kiita",
+        "significado": "ouvi / perguntei"
+      },
+      "nai": {
+        "escritaPrincipal": "聞かない",
+        "hiragana": "きかない",
+        "romaji": "kikanai",
+        "significado": "não ouço / não pergunto"
+      },
+      "mashou": {
+        "escritaPrincipal": "聞きましょう",
+        "hiragana": "ききましょう",
+        "romaji": "kikimashou",
+        "significado": "vamos ouvir / vamos perguntar"
+      }
+    },
+    "exemplos": [
+      {
+        "jp": "毎日音楽を聞きます。",
+        "hiragana": "まいにちおんがくをききます。",
+        "pt": "Ouço música todos os dias."
+      }
+    ],
+    "estatisticas": {
+      "treinado": 0,
+      "acertos": 0,
+      "erros": 0,
+      "ultimaData": null
+    }
+  },
+  {
+    "id": 12,
+    "escritaPrincipal": "起きる",
+    "hiragana": "おきる",
+    "romaji": "okiru",
+    "significados": [
+      "acordar",
+      "levantar-se"
+    ],
+    "grupo": "ichidan",
+    "jlpt": "N5",
+    "conjugacoes": {
+      "masu": {
+        "escritaPrincipal": "起きます",
+        "hiragana": "おきます",
+        "romaji": "okimasu",
+        "significado": "acordo / vou acordar"
+      },
+      "te": {
+        "escritaPrincipal": "起きて",
+        "hiragana": "おきて",
+        "romaji": "okite",
+        "significado": "acorde / acordando"
+      },
+      "ta": {
+        "escritaPrincipal": "起きた",
+        "hiragana": "おきた",
+        "romaji": "okita",
+        "significado": "acordei / acordou"
+      },
+      "nai": {
+        "escritaPrincipal": "起きない",
+        "hiragana": "おきない",
+        "romaji": "okinai",
+        "significado": "não acordo / não vou acordar"
+      },
+      "mashou": {
+        "escritaPrincipal": "起きましょう",
+        "hiragana": "おきましょう",
+        "romaji": "okimashou",
+        "significado": "vamos acordar / vamos levantar"
+      }
+    },
+    "exemplos": [
+      {
+        "jp": "毎朝六時に起きます。",
+        "hiragana": "まいあさろくじにおきます。",
+        "pt": "Acordo todos os dias às seis da manhã."
+      }
+    ],
+    "estatisticas": {
+      "treinado": 0,
+      "acertos": 0,
+      "erros": 0,
+      "ultimaData": null
+    }
+  },
+  {
+    "id": 13,
+    "escritaPrincipal": "寝る",
+    "hiragana": "ねる",
+    "romaji": "neru",
+    "significados": [
+      "dormir",
+      "deitar-se"
+    ],
+    "grupo": "ichidan",
+    "jlpt": "N5",
+    "conjugacoes": {
+      "masu": {
+        "escritaPrincipal": "寝ます",
+        "hiragana": "ねます",
+        "romaji": "nemasu",
+        "significado": "durmo / vou dormir"
+      },
+      "te": {
+        "escritaPrincipal": "寝て",
+        "hiragana": "ねて",
+        "romaji": "nete",
+        "significado": "durma / dormindo"
+      },
+      "ta": {
+        "escritaPrincipal": "寝た",
+        "hiragana": "ねた",
+        "romaji": "neta",
+        "significado": "dormi / dormiu"
+      },
+      "nai": {
+        "escritaPrincipal": "寝ない",
+        "hiragana": "ねない",
+        "romaji": "nenai",
+        "significado": "não durmo / não vou dormir"
+      },
+      "mashou": {
+        "escritaPrincipal": "寝ましょう",
+        "hiragana": "ねましょう",
+        "romaji": "nemashou",
+        "significado": "vamos dormir"
+      }
+    },
+    "exemplos": [
+      {
+        "jp": "毎晩十一時に寝ます。",
+        "hiragana": "まいばんじゅういちじにねます。",
+        "pt": "Durmo todos os dias às onze da noite."
+      }
+    ],
+    "estatisticas": {
+      "treinado": 0,
+      "acertos": 0,
+      "erros": 0,
+      "ultimaData": null
+    }
+  },
+  {
+    "id": 14,
+    "escritaPrincipal": "立つ",
+    "hiragana": "たつ",
+    "romaji": "tatsu",
+    "significados": [
+      "levantar-se",
+      "ficar em pé"
+    ],
+    "grupo": "godan",
+    "jlpt": "N5",
+    "conjugacoes": {
+      "masu": {
+        "escritaPrincipal": "立ちます",
+        "hiragana": "たちます",
+        "romaji": "tachimasu",
+        "significado": "fico de pé / vou ficar de pé"
+      },
+      "te": {
+        "escritaPrincipal": "立って",
+        "hiragana": "たって",
+        "romaji": "tatte",
+        "significado": "fique de pé / ficando de pé"
+      },
+      "ta": {
+        "escritaPrincipal": "立った",
+        "hiragana": "たった",
+        "romaji": "tatta",
+        "significado": "fiquei de pé / ficou de pé"
+      },
+      "nai": {
+        "escritaPrincipal": "立たない",
+        "hiragana": "たたない",
+        "romaji": "tatanai",
+        "significado": "não fico de pé / não vou ficar de pé"
+      },
+      "mashou": {
+        "escritaPrincipal": "立ちましょう",
+        "hiragana": "たちましょう",
+        "romaji": "tachimashou",
+        "significado": "vamos ficar de pé"
+      }
+    },
+    "exemplos": [
+      {
+        "jp": "先生が立ちます。",
+        "hiragana": "せんせいがたちます。",
+        "pt": "O professor se levanta."
+      }
+    ],
+    "estatisticas": {
+      "treinado": 0,
+      "acertos": 0,
+      "erros": 0,
+      "ultimaData": null
+    }
+  },
+  {
+    "id": 15,
+    "escritaPrincipal": "座る",
+    "hiragana": "すわる",
+    "romaji": "suwaru",
+    "significados": [
+      "sentar-se"
+    ],
+    "grupo": "godan",
+    "jlpt": "N5",
+    "conjugacoes": {
+      "masu": {
+        "escritaPrincipal": "座ります",
+        "hiragana": "すわります",
+        "romaji": "suwarimasu",
+        "significado": "sento / vou sentar"
+      },
+      "te": {
+        "escritaPrincipal": "座って",
+        "hiragana": "すわって",
+        "romaji": "suwatte",
+        "significado": "sente-se / sentando"
+      },
+      "ta": {
+        "escritaPrincipal": "座った",
+        "hiragana": "すわった",
+        "romaji": "suwatta",
+        "significado": "sentei / sentou"
+      },
+      "nai": {
+        "escritaPrincipal": "座らない",
+        "hiragana": "すわらない",
+        "romaji": "suwaranai",
+        "significado": "não sento / não vou sentar"
+      },
+      "mashou": {
+        "escritaPrincipal": "座りましょう",
+        "hiragana": "すわりましょう",
+        "romaji": "suwarimashou",
+        "significado": "vamos sentar"
+      }
+    },
+    "exemplos": [
+      {
+        "jp": "ここに座ってください。",
+        "hiragana": "ここにすわってください。",
+        "pt": "Por favor, sente-se aqui."
+      }
+    ],
+    "estatisticas": {
+      "treinado": 0,
+      "acertos": 0,
+      "erros": 0,
+      "ultimaData": null
+    }
+  },
+  {
+    "id": 16,
+    "escritaPrincipal": "待つ",
+    "hiragana": "まつ",
+    "romaji": "matsu",
+    "significados": [
+      "esperar"
+    ],
+    "grupo": "godan",
+    "jlpt": "N5",
+    "conjugacoes": {
+      "masu": {
+        "escritaPrincipal": "待ちます",
+        "hiragana": "まちます",
+        "romaji": "machimasu",
+        "significado": "espero / vou esperar"
+      },
+      "te": {
+        "escritaPrincipal": "待って",
+        "hiragana": "まって",
+        "romaji": "matte",
+        "significado": "espere / esperando"
+      },
+      "ta": {
+        "escritaPrincipal": "待った",
+        "hiragana": "まった",
+        "romaji": "matta",
+        "significado": "esperei / esperou"
+      },
+      "nai": {
+        "escritaPrincipal": "待たない",
+        "hiragana": "またない",
+        "romaji": "matanai",
+        "significado": "não espero / não vou esperar"
+      },
+      "mashou": {
+        "escritaPrincipal": "待ちましょう",
+        "hiragana": "まちましょう",
+        "romaji": "machimashou",
+        "significado": "vamos esperar"
+      }
+    },
+    "exemplos": [
+      {
+        "jp": "駅で友だちを待ちます。",
+        "hiragana": "えきでともだちをまちます。",
+        "pt": "Espero meu amigo na estação."
+      }
+    ],
+    "estatisticas": {
+      "treinado": 0,
+      "acertos": 0,
+      "erros": 0,
+      "ultimaData": null
+    }
+  },
+  {
+    "id": 17,
+    "escritaPrincipal": "使う",
+    "hiragana": "つかう",
+    "romaji": "tsukau",
+    "significados": [
+      "usar",
+      "utilizar"
+    ],
+    "grupo": "godan",
+    "jlpt": "N5",
+    "conjugacoes": {
+      "masu": {
+        "escritaPrincipal": "使います",
+        "hiragana": "つかいます",
+        "romaji": "tsukaimasu",
+        "significado": "uso / vou usar"
+      },
+      "te": {
+        "escritaPrincipal": "使って",
+        "hiragana": "つかって",
+        "romaji": "tsukatte",
+        "significado": "use / usando"
+      },
+      "ta": {
+        "escritaPrincipal": "使った",
+        "hiragana": "つかった",
+        "romaji": "tsukatta",
+        "significado": "usei / usou"
+      },
+      "nai": {
+        "escritaPrincipal": "使わない",
+        "hiragana": "つかわない",
+        "romaji": "tsukawanai",
+        "significado": "não uso / não vou usar"
+      },
+      "mashou": {
+        "escritaPrincipal": "使いましょう",
+        "hiragana": "つかいましょう",
+        "romaji": "tsukaimashou",
+        "significado": "vamos usar"
+      }
+    },
+    "exemplos": [
+      {
+        "jp": "毎日パソコンを使います。",
+        "hiragana": "まいにちパソコンをつかいます。",
+        "pt": "Uso o computador todos os dias."
+      }
+    ],
+    "estatisticas": {
+      "treinado": 0,
+      "acertos": 0,
+      "erros": 0,
+      "ultimaData": null
+    }
+  },
+  {
+    "id": 18,
+    "escritaPrincipal": "教える",
+    "hiragana": "おしえる",
+    "romaji": "oshieru",
+    "significados": [
+      "ensinar",
+      "informar"
+    ],
+    "grupo": "ichidan",
+    "jlpt": "N5",
+    "conjugacoes": {
+      "masu": {
+        "escritaPrincipal": "教えます",
+        "hiragana": "おしえます",
+        "romaji": "oshiemasu",
+        "significado": "ensino / vou ensinar"
+      },
+      "te": {
+        "escritaPrincipal": "教えて",
+        "hiragana": "おしえて",
+        "romaji": "oshiete",
+        "significado": "ensine / ensinando"
+      },
+      "ta": {
+        "escritaPrincipal": "教えた",
+        "hiragana": "おしえた",
+        "romaji": "oshieta",
+        "significado": "ensinei / ensinou"
+      },
+      "nai": {
+        "escritaPrincipal": "教えない",
+        "hiragana": "おしえない",
+        "romaji": "oshienai",
+        "significado": "não ensino / não vou ensinar"
+      },
+      "mashou": {
+        "escritaPrincipal": "教えましょう",
+        "hiragana": "おしえましょう",
+        "romaji": "oshiemashou",
+        "significado": "vamos ensinar"
+      }
+    },
+    "exemplos": [
+      {
+        "jp": "先生が日本語を教えます。",
+        "hiragana": "せんせいがにほんごをおしえます。",
+        "pt": "O professor ensina japonês."
+      }
+    ],
+    "estatisticas": {
+      "treinado": 0,
+      "acertos": 0,
+      "erros": 0,
+      "ultimaData": null
+    }
+  },
+  {
+    "id": 19,
+    "escritaPrincipal": "勉強する",
+    "hiragana": "べんきょうする",
+    "romaji": "benkyou suru",
+    "significados": [
+      "estudar"
+    ],
+    "grupo": "irregular",
+    "jlpt": "N5",
+    "conjugacoes": {
+      "masu": {
+        "escritaPrincipal": "勉強します",
+        "hiragana": "べんきょうします",
+        "romaji": "benkyou shimasu",
+        "significado": "estudo / vou estudar"
+      },
+      "te": {
+        "escritaPrincipal": "勉強して",
+        "hiragana": "べんきょうして",
+        "romaji": "benkyou shite",
+        "significado": "estude / estudando"
+      },
+      "ta": {
+        "escritaPrincipal": "勉強した",
+        "hiragana": "べんきょうした",
+        "romaji": "benkyou shita",
+        "significado": "estudei / estudou"
+      },
+      "nai": {
+        "escritaPrincipal": "勉強しない",
+        "hiragana": "べんきょうしない",
+        "romaji": "benkyou shinai",
+        "significado": "não estudo / não vou estudar"
+      },
+      "mashou": {
+        "escritaPrincipal": "勉強しましょう",
+        "hiragana": "べんきょうしましょう",
+        "romaji": "benkyou shimashou",
+        "significado": "vamos estudar"
+      }
+    },
+    "exemplos": [
+      {
+        "jp": "毎日日本語を勉強します。",
+        "hiragana": "まいにちにほんごをべんきょうします。",
+        "pt": "Estudo japonês todos os dias."
+      }
+    ],
+    "estatisticas": {
+      "treinado": 0,
+      "acertos": 0,
+      "erros": 0,
+      "ultimaData": null
+    }
+  },
+  {
+    "id": 20,
+    "escritaPrincipal": "開ける",
+    "hiragana": "あける",
+    "romaji": "akeru",
+    "significados": [
+      "abrir"
+    ],
+    "grupo": "ichidan",
+    "jlpt": "N5",
+    "conjugacoes": {
+      "masu": {
+        "escritaPrincipal": "開けます",
+        "hiragana": "あけます",
+        "romaji": "akemasu",
+        "significado": "abro / vou abrir"
+      },
+      "te": {
+        "escritaPrincipal": "開けて",
+        "hiragana": "あけて",
+        "romaji": "akete",
+        "significado": "abra / abrindo"
+      },
+      "ta": {
+        "escritaPrincipal": "開けた",
+        "hiragana": "あけた",
+        "romaji": "aketa",
+        "significado": "abri / abriu"
+      },
+      "nai": {
+        "escritaPrincipal": "開けない",
+        "hiragana": "あけない",
+        "romaji": "akenai",
+        "significado": "não abro / não vou abrir"
+      },
+      "mashou": {
+        "escritaPrincipal": "開けましょう",
+        "hiragana": "あけましょう",
+        "romaji": "akemashou",
+        "significado": "vamos abrir"
+      }
+    },
+    "exemplos": [
+      {
+        "jp": "窓を開けます。",
+        "hiragana": "まどをあけます。",
+        "pt": "Abro a janela."
+      }
+    ],
+    "estatisticas": {
+      "treinado": 0,
+      "acertos": 0,
+      "erros": 0,
+      "ultimaData": null
+    }
+  },
+  {
+    "id": 21,
+    "escritaPrincipal": "歩く",
+    "hiragana": "あるく",
+    "romaji": "aruku",
+    "significados": [
+      "andar",
+      "caminhar"
+    ],
+    "grupo": "godan",
+    "jlpt": "N5",
+    "conjugacoes": {
+      "masu": {
+        "escritaPrincipal": "歩きます",
+        "hiragana": "あるきます",
+        "romaji": "arukimasu",
+        "significado": "caminho / vou caminhar"
+      },
+      "te": {
+        "escritaPrincipal": "歩いて",
+        "hiragana": "あるいて",
+        "romaji": "aruite",
+        "significado": "caminhe / caminhando"
+      },
+      "ta": {
+        "escritaPrincipal": "歩いた",
+        "hiragana": "あるいた",
+        "romaji": "aruita",
+        "significado": "caminhei / caminhou"
+      },
+      "nai": {
+        "escritaPrincipal": "歩かない",
+        "hiragana": "あるかない",
+        "romaji": "arukanai",
+        "significado": "não caminho / não vou caminhar"
+      },
+      "mashou": {
+        "escritaPrincipal": "歩きましょう",
+        "hiragana": "あるきましょう",
+        "romaji": "arukimashou",
+        "significado": "vamos caminhar"
+      }
+    },
+    "exemplos": [
+      {
+        "jp": "毎日公園を歩きます。",
+        "hiragana": "まいにちこうえんをあるきます。",
+        "pt": "Caminho no parque todos os dias."
+      }
+    ],
+    "estatisticas": {
+      "treinado": 0,
+      "acertos": 0,
+      "erros": 0,
+      "ultimaData": null
+    }
+  },
+  {
+    "id": 22,
+    "escritaPrincipal": "帰る",
+    "hiragana": "かえる",
+    "romaji": "kaeru",
+    "significados": [
+      "voltar",
+      "voltar para casa"
+    ],
+    "grupo": "godan",
+    "jlpt": "N5",
+    "conjugacoes": {
+      "masu": {
+        "escritaPrincipal": "帰ります",
+        "hiragana": "かえります",
+        "romaji": "kaerimasu",
+        "significado": "volto / vou voltar"
+      },
+      "te": {
+        "escritaPrincipal": "帰って",
+        "hiragana": "かえって",
+        "romaji": "kaette",
+        "significado": "volte / voltando"
+      },
+      "ta": {
+        "escritaPrincipal": "帰った",
+        "hiragana": "かえった",
+        "romaji": "kaetta",
+        "significado": "voltei / voltou"
+      },
+      "nai": {
+        "escritaPrincipal": "帰らない",
+        "hiragana": "かえらない",
+        "romaji": "kaeranai",
+        "significado": "não volto / não vou voltar"
+      },
+      "mashou": {
+        "escritaPrincipal": "帰りましょう",
+        "hiragana": "かえりましょう",
+        "romaji": "kaerimashou",
+        "significado": "vamos voltar"
+      }
+    },
+    "exemplos": [
+      {
+        "jp": "午後六時に家へ帰ります。",
+        "hiragana": "ごごろくじにいえへかえります。",
+        "pt": "Volto para casa às seis da tarde."
+      }
+    ],
+    "estatisticas": {
+      "treinado": 0,
+      "acertos": 0,
+      "erros": 0,
+      "ultimaData": null
+    }
+  },
+  {
+    "id": 23,
+    "escritaPrincipal": "入る",
+    "hiragana": "はいる",
+    "romaji": "hairu",
+    "significados": [
+      "entrar"
+    ],
+    "grupo": "godan",
+    "jlpt": "N5",
+    "conjugacoes": {
+      "masu": {
+        "escritaPrincipal": "入ります",
+        "hiragana": "はいります",
+        "romaji": "hairimasu",
+        "significado": "entro / vou entrar"
+      },
+      "te": {
+        "escritaPrincipal": "入って",
+        "hiragana": "はいって",
+        "romaji": "haitte",
+        "significado": "entre / entrando"
+      },
+      "ta": {
+        "escritaPrincipal": "入った",
+        "hiragana": "はいった",
+        "romaji": "haitta",
+        "significado": "entrei / entrou"
+      },
+      "nai": {
+        "escritaPrincipal": "入らない",
+        "hiragana": "はいらない",
+        "romaji": "hairanai",
+        "significado": "não entro / não vou entrar"
+      },
+      "mashou": {
+        "escritaPrincipal": "入りましょう",
+        "hiragana": "はいりましょう",
+        "romaji": "hairimashou",
+        "significado": "vamos entrar"
+      }
+    },
+    "exemplos": [
+      {
+        "jp": "部屋に入ります。",
+        "hiragana": "へやにはいります。",
+        "pt": "Entro no quarto."
+      }
+    ],
+    "estatisticas": {
+      "treinado": 0,
+      "acertos": 0,
+      "erros": 0,
+      "ultimaData": null
+    }
+  },
+  {
+    "id": 24,
+    "escritaPrincipal": "出る",
+    "hiragana": "でる",
+    "romaji": "deru",
+    "significados": [
+      "sair"
+    ],
+    "grupo": "ichidan",
+    "jlpt": "N5",
+    "conjugacoes": {
+      "masu": {
+        "escritaPrincipal": "出ます",
+        "hiragana": "でます",
+        "romaji": "demasu",
+        "significado": "saio / vou sair"
+      },
+      "te": {
+        "escritaPrincipal": "出て",
+        "hiragana": "でて",
+        "romaji": "dete",
+        "significado": "saia / saindo"
+      },
+      "ta": {
+        "escritaPrincipal": "出た",
+        "hiragana": "でた",
+        "romaji": "deta",
+        "significado": "saí / saiu"
+      },
+      "nai": {
+        "escritaPrincipal": "出ない",
+        "hiragana": "でない",
+        "romaji": "denai",
+        "significado": "não saio / não vou sair"
+      },
+      "mashou": {
+        "escritaPrincipal": "出ましょう",
+        "hiragana": "でましょう",
+        "romaji": "demashou",
+        "significado": "vamos sair"
+      }
+    },
+    "exemplos": [
+      {
+        "jp": "部屋を出ます。",
+        "hiragana": "へやをでます。",
+        "pt": "Saio do quarto."
+      }
+    ],
+    "estatisticas": {
+      "treinado": 0,
+      "acertos": 0,
+      "erros": 0,
+      "ultimaData": null
+    }
+  },
+  {
+    "id": 25,
+    "escritaPrincipal": "走る",
+    "hiragana": "はしる",
+    "romaji": "hashiru",
+    "significados": [
+      "correr"
+    ],
+    "grupo": "godan",
+    "jlpt": "N5",
+    "conjugacoes": {
+      "masu": {
+        "escritaPrincipal": "走ります",
+        "hiragana": "はしります",
+        "romaji": "hashirimasu",
+        "significado": "corro / vou correr"
+      },
+      "te": {
+        "escritaPrincipal": "走って",
+        "hiragana": "はしって",
+        "romaji": "hashitte",
+        "significado": "corra / correndo"
+      },
+      "ta": {
+        "escritaPrincipal": "走った",
+        "hiragana": "はしった",
+        "romaji": "hashitta",
+        "significado": "corri / correu"
+      },
+      "nai": {
+        "escritaPrincipal": "走らない",
+        "hiragana": "はしらない",
+        "romaji": "hashiranai",
+        "significado": "não corro / não vou correr"
+      },
+      "mashou": {
+        "escritaPrincipal": "走りましょう",
+        "hiragana": "はしりましょう",
+        "romaji": "hashirimashou",
+        "significado": "vamos correr"
+      }
+    },
+    "exemplos": [
+      {
+        "jp": "毎朝公園で走ります。",
+        "hiragana": "まいあさこうえんではしります。",
+        "pt": "Corro no parque todas as manhãs."
+      }
+    ],
+    "estatisticas": {
+      "treinado": 0,
+      "acertos": 0,
+      "erros": 0,
+      "ultimaData": null
+    }
+  },
+  {
+    "id": 26,
+    "escritaPrincipal": "会う",
+    "hiragana": "あう",
+    "romaji": "au",
+    "significados": [
+      "encontrar",
+      "encontrar-se com"
+    ],
+    "grupo": "godan",
+    "jlpt": "N5",
+    "conjugacoes": {
+      "masu": {
+        "escritaPrincipal": "会います",
+        "hiragana": "あいます",
+        "romaji": "aimasu",
+        "significado": "encontro / vou encontrar"
+      },
+      "te": {
+        "escritaPrincipal": "会って",
+        "hiragana": "あって",
+        "romaji": "atte",
+        "significado": "encontre-se / encontrando"
+      },
+      "ta": {
+        "escritaPrincipal": "会った",
+        "hiragana": "あった",
+        "romaji": "atta",
+        "significado": "encontrei / encontrou"
+      },
+      "nai": {
+        "escritaPrincipal": "会わない",
+        "hiragana": "あわない",
+        "romaji": "awanai",
+        "significado": "não encontro / não vou encontrar"
+      },
+      "mashou": {
+        "escritaPrincipal": "会いましょう",
+        "hiragana": "あいましょう",
+        "romaji": "aimashou",
+        "significado": "vamos nos encontrar"
+      }
+    },
+    "exemplos": [
+      {
+        "jp": "明日友達に会います。",
+        "hiragana": "あしたともだちにあいます。",
+        "pt": "Vou encontrar um amigo amanhã."
+      }
+    ],
+    "estatisticas": {
+      "treinado": 0,
+      "acertos": 0,
+      "erros": 0,
+      "ultimaData": null
+    }
+  },
+  {
+    "id": 27,
+    "escritaPrincipal": "電話する",
+    "hiragana": "でんわする",
+    "romaji": "denwa suru",
+    "significados": [
+      "telefonar",
+      "ligar"
+    ],
+    "grupo": "irregular",
+    "jlpt": "N5",
+    "conjugacoes": {
+      "masu": {
+        "escritaPrincipal": "電話します",
+        "hiragana": "でんわします",
+        "romaji": "denwa shimasu",
+        "significado": "telefono / vou telefonar"
+      },
+      "te": {
+        "escritaPrincipal": "電話して",
+        "hiragana": "でんわして",
+        "romaji": "denwa shite",
+        "significado": "telefone / telefonando"
+      },
+      "ta": {
+        "escritaPrincipal": "電話した",
+        "hiragana": "でんわした",
+        "romaji": "denwa shita",
+        "significado": "telefonei / telefonou"
+      },
+      "nai": {
+        "escritaPrincipal": "電話しない",
+        "hiragana": "でんわしない",
+        "romaji": "denwa shinai",
+        "significado": "não telefono / não vou telefonar"
+      },
+      "mashou": {
+        "escritaPrincipal": "電話しましょう",
+        "hiragana": "でんわしましょう",
+        "romaji": "denwa shimashou",
+        "significado": "vamos telefonar"
+      }
+    },
+    "exemplos": [
+      {
+        "jp": "あとで母に電話します。",
+        "hiragana": "あとでははにでんわします。",
+        "pt": "Vou telefonar para minha mãe mais tarde."
+      }
+    ],
+    "estatisticas": {
+      "treinado": 0,
+      "acertos": 0,
+      "erros": 0,
+      "ultimaData": null
+    }
+  },
+  {
+    "id": 28,
+    "escritaPrincipal": "掃除する",
+    "hiragana": "そうじする",
+    "romaji": "souji suru",
+    "significados": [
+      "limpar",
+      "fazer limpeza"
+    ],
+    "grupo": "irregular",
+    "jlpt": "N5",
+    "conjugacoes": {
+      "masu": {
+        "escritaPrincipal": "掃除します",
+        "hiragana": "そうじします",
+        "romaji": "souji shimasu",
+        "significado": "limpo / vou limpar"
+      },
+      "te": {
+        "escritaPrincipal": "掃除して",
+        "hiragana": "そうじして",
+        "romaji": "souji shite",
+        "significado": "limpe / limpando"
+      },
+      "ta": {
+        "escritaPrincipal": "掃除した",
+        "hiragana": "そうじした",
+        "romaji": "souji shita",
+        "significado": "limpei / limpou"
+      },
+      "nai": {
+        "escritaPrincipal": "掃除しない",
+        "hiragana": "そうじしない",
+        "romaji": "souji shinai",
+        "significado": "não limpo / não vou limpar"
+      },
+      "mashou": {
+        "escritaPrincipal": "掃除しましょう",
+        "hiragana": "そうじしましょう",
+        "romaji": "souji shimashou",
+        "significado": "vamos limpar"
+      }
+    },
+    "exemplos": [
+      {
+        "jp": "毎週土曜日に部屋を掃除します。",
+        "hiragana": "まいしゅうどようびにへやをそうじします。",
+        "pt": "Limpo o quarto todos os sábados."
+      }
+    ],
+    "estatisticas": {
+      "treinado": 0,
+      "acertos": 0,
+      "erros": 0,
+      "ultimaData": null
+    }
+  },
+  {
+    "id": 29,
+    "escritaPrincipal": "洗う",
+    "hiragana": "あらう",
+    "romaji": "arau",
+    "significados": [
+      "lavar"
+    ],
+    "grupo": "godan",
+    "jlpt": "N5",
+    "conjugacoes": {
+      "masu": {
+        "escritaPrincipal": "洗います",
+        "hiragana": "あらいます",
+        "romaji": "araimasu",
+        "significado": "lavo / vou lavar"
+      },
+      "te": {
+        "escritaPrincipal": "洗って",
+        "hiragana": "あらって",
+        "romaji": "aratte",
+        "significado": "lave / lavando"
+      },
+      "ta": {
+        "escritaPrincipal": "洗った",
+        "hiragana": "あらった",
+        "romaji": "aratta",
+        "significado": "lavei / lavou"
+      },
+      "nai": {
+        "escritaPrincipal": "洗わない",
+        "hiragana": "あらわない",
+        "romaji": "arawanai",
+        "significado": "não lavo / não vou lavar"
+      },
+      "mashou": {
+        "escritaPrincipal": "洗いましょう",
+        "hiragana": "あらいましょう",
+        "romaji": "araimashou",
+        "significado": "vamos lavar"
+      }
+    },
+    "exemplos": [
+      {
+        "jp": "食べる前に手を洗います。",
+        "hiragana": "たべるまえにてをあらいます。",
+        "pt": "Lavo as mãos antes de comer."
+      }
+    ],
+    "estatisticas": {
+      "treinado": 0,
+      "acertos": 0,
+      "erros": 0,
+      "ultimaData": null
+    }
+  },
+  {
+    "id": 30,
+    "escritaPrincipal": "歌う",
+    "hiragana": "うたう",
+    "romaji": "utau",
+    "significados": [
+      "cantar"
+    ],
+    "grupo": "godan",
+    "jlpt": "N5",
+    "conjugacoes": {
+      "masu": {
+        "escritaPrincipal": "歌います",
+        "hiragana": "うたいます",
+        "romaji": "utaimasu",
+        "significado": "canto / vou cantar"
+      },
+      "te": {
+        "escritaPrincipal": "歌って",
+        "hiragana": "うたって",
+        "romaji": "utatte",
+        "significado": "cante / cantando"
+      },
+      "ta": {
+        "escritaPrincipal": "歌った",
+        "hiragana": "うたった",
+        "romaji": "utatta",
+        "significado": "cantei / cantou"
+      },
+      "nai": {
+        "escritaPrincipal": "歌わない",
+        "hiragana": "うたわない",
+        "romaji": "utawanai",
+        "significado": "não canto / não vou cantar"
+      },
+      "mashou": {
+        "escritaPrincipal": "歌いましょう",
+        "hiragana": "うたいましょう",
+        "romaji": "utaimashou",
+        "significado": "vamos cantar"
+      }
+    },
+    "exemplos": [
+      {
+        "jp": "カラオケで歌います。",
+        "hiragana": "カラオケでうたいます。",
+        "pt": "Canto no karaokê."
+      }
+    ],
+    "estatisticas": {
+      "treinado": 0,
+      "acertos": 0,
+      "erros": 0,
+      "ultimaData": null
+    }
+  }
+]

@@ -1,0 +1,358 @@
+.detalhes-verbo-container {
+    width: min(800px, 100%);
+    min-height: 100vh;
+
+    margin: 0 auto;
+    padding: 30px 24px;
+
+    box-sizing: border-box;
+
+    background: #fffafc;
+    border-radius: 12px;
+
+    font-family: Arial, sans-serif;
+}
+body {
+    overflow-y: auto;
+}
+
+body::-webkit-scrollbar {
+    width: 8px;
+}
+
+body::-webkit-scrollbar-track {
+    background: #173D2B;
+}
+
+body::-webkit-scrollbar-thumb {
+    background: #b9d3c0;
+    border-radius: 10px;
+}
+
+body::-webkit-scrollbar-thumb:hover {
+    background: #4f8069;
+}
+
+.cabecalho-verbo {
+    text-align: center;
+
+    margin: 10px 0 35px;
+    padding: 30px 20px;
+
+    background: #ffffff;
+    border: 1px solid #e9dce1;
+    border-radius: 16px;
+
+    box-shadow: 0 4px 12px rgba(80, 60, 70, 0.06);
+}
+
+.verbo-kanji {
+    margin: 0 0 8px;
+
+    font-size: 58px;
+    font-weight: 600;
+
+    color: #304a34;
+}
+
+.verbo-hiragana {
+    margin: 0 0 4px;
+
+    font-size: 28px;
+    color: #7a3f4a;
+}
+
+.verbo-katakana {
+    margin: 0 0 14px;
+
+    font-size: 18px;
+    color: #8a9a91;
+}
+
+.verbo-romaji {
+    margin: 0;
+
+    font-size: 16px;
+    color: #555;
+}
+.card-detalhes {
+    margin-bottom: 20px;
+    padding: 22px 24px;
+
+    background: #ffffff;
+    border: 1px solid #e9dce1;
+    border-radius: 14px;
+
+    box-shadow: 0 3px 10px rgba(80, 60, 70, 0.05);
+}
+
+.card-detalhes h2 {
+    margin: 0 0 16px;
+
+    font-size: 21px;
+    font-weight: 600;
+
+    color: #304a34;
+}
+
+.lista-significados {
+    margin: 0;
+    padding-left: 22px;
+
+    color: #555;
+    line-height: 1.8;
+}
+
+.lista-significados li {
+    padding-left: 4px;
+}
+.card-informacoes {
+    margin-top: 20px;
+}
+
+.informacoes-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+}
+
+.informacao-item {
+    padding: 15px;
+
+    background: #f8fbf9;
+    border: 1px solid #e1ece4;
+    border-radius: 10px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.informacao-item span {
+    font-size: 14px;
+    color: #8a9a91;
+}
+
+.informacao-item strong {
+    font-size: 17px;
+    color: #304a34;
+}
+.card-conjugacoes {
+    margin-top: 20px;
+}
+
+.tabela-container {
+    overflow-x: auto;
+}
+
+.tabela-conjugacoes {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.tabela-conjugacoes th {
+    padding: 13px 15px;
+
+    text-align: left;
+
+    background: #eef6ef;
+    color: #304a34;
+
+    font-size: 15px;
+    font-weight: 600;
+
+    border-bottom: 1px solid #d6e6da;
+}
+
+.tabela-conjugacoes td {
+    padding: 13px 15px;
+
+    color: #555;
+
+    border-bottom: 1px solid #eee5e8;
+}
+
+.tabela-conjugacoes tbody tr:last-child td {
+    border-bottom: none;
+}
+
+.tabela-conjugacoes tbody tr:hover {
+    background: #fff7f9;
+}
+
+.tabela-conjugacoes td:first-child {
+    width: 30%;
+    font-weight: 600;
+    color: #304a34;
+}
+.card-exemplos {
+    margin-top: 20px;
+}
+
+.lista-exemplos {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.exemplo-item {
+    padding: 18px;
+
+    background: #f6faf7;
+    border: 1px solid #91aa97;
+    border-radius: 12px;
+}
+
+.exemplo-japones {
+    margin: 0 0 6px;
+
+    font-size: 22px;
+    font-weight: 600;
+
+    color: #304a34;
+}
+
+.exemplo-hiragana {
+    margin: 0 0 10px;
+
+    font-size: 15px;
+    color: #8a9a91;
+}
+
+.exemplo-portugues {
+    margin: 0;
+
+    font-size: 16px;
+    color: #555;
+}
+.card-estatisticas {
+    margin-top: 20px;
+}
+
+.estatisticas-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+}
+
+.estatistica-item {
+    padding: 16px 10px;
+
+    text-align: center;
+
+    border-radius: 12px;
+}
+
+.estatistica-item span {
+    display: block;
+
+    margin-bottom: 6px;
+
+    font-size: 14px;
+}
+
+.estatistica-item strong {
+    font-size: 24px;
+}
+
+
+/* Treinado */
+
+.estatistica-item:nth-child(1) {
+    background: #f4f4f4;
+    border: 1px solid #d8d8d8;
+}
+
+.estatistica-item:nth-child(1) span {
+    color: #666;
+}
+
+.estatistica-item:nth-child(1) strong {
+    color: #304a34;
+}
+
+
+/* Acertos */
+
+.estatistica-item:nth-child(2) {
+    background: #eef6ef;
+    border: 1px solid #b9d3c0;
+}
+
+.estatistica-item:nth-child(2) span {
+    color: #4f8069;
+}
+
+.estatistica-item:nth-child(2) strong {
+    color: #2f6845;
+}
+
+
+/* Erros */
+
+.estatistica-item:nth-child(3) {
+    background: #fdf0f0;
+    border: 1px solid #e5bcbc;
+}
+
+.estatistica-item:nth-child(3) span {
+    color: #a45c5c;
+}
+
+.estatistica-item:nth-child(3) strong {
+    color: #9a4040;
+}
+.ultimo-treino {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin-top: 15px;
+    padding: 14px 16px;
+
+    background: #f8fbf9;
+    border: 1px solid #d6e6da;
+    border-radius: 10px;
+}
+
+.ultimo-treino span {
+    color: #65756b;
+    font-size: 14px;
+}
+
+.ultimo-treino strong {
+    color: #304a34;
+    font-size: 14px;
+}
+.area-treinar {
+    display: flex;
+    justify-content: center;
+
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.btn-treinar {
+    width: min(400px, 100%);
+
+    padding: 14px 24px;
+
+    border: none;
+    border-radius: 12px;
+
+    background: #4f8069;
+    color: #ffffff;
+
+    font-size: 18px;
+    font-weight: 600;
+
+    cursor: pointer;
+
+    transition: 0.2s ease;
+}
+
+.btn-treinar:hover {
+    background: #304a34;
+    transform: translateY(-1px);
+}

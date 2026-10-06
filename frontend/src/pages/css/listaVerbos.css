@@ -1,0 +1,192 @@
+.lista-verbos-container {
+    height: 100vh;
+    background: #173D2B;
+    padding: 20px;
+    box-sizing: border-box;
+    overflow-y: scroll;
+    
+}
+.grupos-container {
+   width: min(800px, 100%);
+    margin: 100px auto 0;
+    
+}
+
+
+.lista-verbos-container::-webkit-scrollbar {
+    width: 8px;
+}
+
+.lista-verbos-container::-webkit-scrollbar-track {
+    background: #173D2B;
+    border-radius: 10px;
+}
+
+.lista-verbos-container::-webkit-scrollbar-thumb {
+    background: #b9d3c0;
+    border-radius: 10px;
+}
+
+.lista-verbos-container::-webkit-scrollbar-thumb:hover {
+    background: #4f8069;
+}
+
+
+
+.titulo-lista {
+    margin: 20px 0 30px;
+    text-align: center;
+    color: #FFF8EE;
+    font-size: 32px;
+    font-weight: 600;
+}
+.grupo-titulo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding: 20px 22px;
+    box-sizing: border-box;
+    border-radius: 14px 14px 0px 0px;
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+    margin: 0;
+    height: 90px;
+    align-items: center;
+    
+}
+
+
+/* 🌿 Grupo 1 */
+.grupo-godan {
+    background: #eef6ef;
+    border: 1px solid #b9d3c0;
+    color: #244536;
+}
+
+/* 🌸 Grupo 2 */
+.grupo-ichidan {
+    background: #fdf2f4;
+    border: 1px solid #e9a5af;
+    color: #7a3f4a;
+}
+
+/* 🟡 Grupo 3 */
+.grupo-irregular {
+    background: #f6f2e8;
+    border: 1px solid #c9a65b;
+    color: #705728;
+}
+
+.verbo-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 16px;
+    padding: 14px 16px;
+    cursor: pointer;
+    transition: 0.2s ease;
+
+}
+
+
+/* 🌿 Lista Grupo 1 */
+.lista-godan {
+    background: #f5faf6;
+    border-bottom: 1px solid #d6e6da;
+}
+
+.lista-godan .verbo-japones {
+    color: #355f49;
+}
+
+.lista-godan .verbo-significado {
+    color: #5d806c;
+}
+
+
+/* 🌸 Lista Grupo 2 */
+.lista-ichidan {
+    background: #fff7f8;
+    border-bottom: 1px solid #f1d5da;
+}
+
+.lista-ichidan .verbo-japones {
+    color: #874552;
+}
+
+.lista-ichidan .verbo-significado {
+    color: #a56873;
+}
+
+
+/* 🟡 Lista Grupo 3 */
+.lista-irregular {
+    background: #faf8f0;
+    border-bottom: 1px solid #e8dfc9;
+}
+
+.lista-irregular .verbo-japones {
+    color: #765d2e;
+}
+
+.lista-irregular .verbo-significado {
+    color: #947b49;
+}
+.lista-godan:hover {
+    background: #eaf4ed;
+}
+
+.lista-ichidan:hover {
+    background: #fdf0f3;
+}
+
+.lista-irregular:hover {
+    background: #f5f0e3;
+}
+
+
+
+.verbo-japones {
+    font-size: 18px;
+    font-weight: 600;
+   
+}
+
+.pesquisa-container {
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto 30px;
+}
+
+.campo-pesquisa {
+    width: 100%;
+    padding: 14px 16px;
+    box-sizing: border-box;
+    border: 1px solid #d6e6da;
+    border-radius: 12px;
+    background: #ffffff;
+    color: #304a34;
+    font-size: 16px;
+    outline: none;
+    transition: 0.2s ease;
+    margin-top: 30px;
+}
+
+.campo-pesquisa::placeholder {
+    color: #8a9a91;
+}
+
+.campo-pesquisa:focus {
+    border-color: #4f8069;
+    box-shadow: 0 0 0 3px #eef6ef;
+}
+.grupo-container {
+    margin-bottom: 30px;
+}
+.grupo-container .verbo-item:first-child {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
