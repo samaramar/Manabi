@@ -11,6 +11,12 @@ Com o desenvolvimento, a proposta foi crescendo. O aplicativo passou a contar co
 O Manabi também representa um projeto de aprendizado e evolução em desenvolvimento de software, desde a definição da ideia até a construção do frontend, backend, persistência de dados e organização da arquitetura.
 
 ---
+## 🎥 Demonstração do Manabi
+
+Clique na imagem abaixo para assistir à demonstração do aplicativo:
+
+[![Demonstração do Manabi](https://img.youtube.com/vi/XTzUleQHy6s/0.jpg)](https://youtu.be/XTzUleQHy6s)
+
 
 ## 📚 Sobre o projeto
 
