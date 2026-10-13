@@ -1257,11 +1257,6 @@ Cada funcionalidade construída trouxe um novo problema para resolver, uma nova 
 
 ### Backend
 
-Entre na pasta:
-
-```bash
-cd backend
-```
 
 Instale as dependências:
 
