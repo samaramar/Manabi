@@ -1316,16 +1316,6 @@ http://localhost:5000/api
 
 ---
 
-# 📌 Status e observações
-
-O projeto atualmente está estruturado como um MVP.
-
-Algumas decisões técnicas foram tomadas considerando esse contexto. Soluções mais robustas podem ser introduzidas conforme o projeto crescer e novas necessidades aparecerem.
-
-O objetivo não é adicionar complexidade apenas por adicionar, mas permitir que a arquitetura evolua junto com as necessidades reais da aplicação.
-
----
-
 # ❤️ Considerações finais
 
 O Manabi começou como uma ideia simples e foi se transformando em um projeto completo de desenvolvimento de software.
