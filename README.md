@@ -1258,7 +1258,7 @@ Cada funcionalidade construída trouxe um novo problema para resolver, uma nova 
 ### Backend
 
 
-Instale as dependências:
+Instale as dependências no terminal:
 
 ```bash
 npm install
