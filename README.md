@@ -1334,7 +1334,7 @@ O objetivo é continuar aprimorando o Manabi, adicionar novos conteúdos de japo
 
 ---
 
-## 👩‍💻 Autora
+## 👩‍💻 Autora-Samara
 
 Desenvolvido como projeto pessoal para aprofundar conhecimentos em desenvolvimento de software e transformar uma ideia própria em uma aplicação funcional.
 
